@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CleanSampleApp</string>
+    <string name="api_key">2edf0f97446541669eb364fba4da6e46</string>
+    <string name="success_fetching_air_quality">Success Fetching Air Quality</string>
+    <string name="failure_fetching_air_quality">Failure Fetching Air Qaulity</string>
+    <string name="fetching_air_quality_data">Fetching Air Qaulity Data</string>
+    <string name="please_wait">Please Wait</string>
+</resources>
